@@ -6,10 +6,9 @@ https://safe-bastion-81994.herokuapp.com/
 
 ## Table of Contents
 
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
+- [Installation](#Installation)
+- [Usage](#Usage)
+- [Description](#Description)
 
 # Description
 
